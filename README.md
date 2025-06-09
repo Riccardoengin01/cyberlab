@@ -1,4 +1,4 @@
-# 🛡️ cyberlab – Riccardo Righini
+# 🛡️ Cyberlab – Riccardo Righini
 
 > Repository del mio laboratorio personale di cybersecurity e automazione.  
 > Contiene ambienti, script, appunti e progetti dal livello base fino all’expert.
