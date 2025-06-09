@@ -14,10 +14,14 @@
 ---
 
 ## 🧰 Toolchain (Modulo 0.1)
-- Windows 11 Pro + WSL 2
-- Ubuntu 24.04 LTS
-- Git, Zsh, Oh My Zsh, VS Code
-- Script `setup_env.sh` per ripristino ambienti
+
+| 1️⃣ | Verificato e installato **WSL 2 + Ubuntu 24.04** | Usare Linux in Windows senza VM: essenziale per la cybersecurity |
+| 2️⃣ | Aggiornato il sistema e installato tool di base (`git`, `curl`, `zsh`, ecc.) | Set minimo indispensabile per lavorare in modo efficace |
+| 3️⃣ | Configurato `git` e chiave SSH verso GitHub | Salvare il lavoro su GitHub in modo veloce, sicuro e professionale |
+| 4️⃣ | Installato **Oh My Zsh** | Terminale potente, personalizzabile e produttivo |
+| 5️⃣ | Creato la struttura `~/cyberlab` | Per tenere organizzati moduli, script e documentazione |
+| 6️⃣ | Creato lo script `setup_env.sh` | Ricreare l’ambiente in pochi secondi (su qualsiasi macchina) |
+| 7️⃣ | Documentato tutto in `lab-setup.md` | Traccia tecnica chiara, professionale e condivisibile |
 
 ---
 
