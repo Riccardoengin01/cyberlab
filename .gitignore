@@ -1,0 +1,16 @@
+# Cache Python
+__pycache__/
+*.pyc
+
+# File temporanei
+*.log
+*.tmp
+*.bak
+
+# Config personali
+.vscode/
+.env
+
+# Virtualenv
+venv/
+.env/
