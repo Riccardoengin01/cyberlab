@@ -33,6 +33,18 @@ Contiene ambienti, script, appunti e progetti dal livello base fino all’expert
 - VS Code + Remote WSL  
 - Script di provisioning automatico
 
+## 🔗 Deliverable principali
+
+## 📦 Modulo 0.1 – Toolchain
+- [📝 `lab-setup.md`](./00_toolchain/lab-setup.md) – Documentazione tecnica del setup
+- [🔁 `setup_env.sh`](./00_toolchain/install-scripts/setup_env.sh) – Script automatico per provisioning ambiente
+- [📘 `comandi-wsl.md`](./00_toolchain/comandi-wsl.md) – Elenco di tutti i comandi usati finora
+
+## 🌐 Modulo 0.2 – Networking 101
+- [📝 `lab-notes.md`](./01_networking/lab-notes.md) – Note operative: OSI, ping, traceroute
+- [✍️ `viaggio-di-un-pacchetto.md`](./01_networking/viaggio-di-un-pacchetto.md) – Blog tecnico
+- [📦 `tls_handshake.pcapng`](./01_networking/tls_handshake.pcapng) – File Wireshark annotato (in arrivo)
+
 ---
 
 ## 📊 Stato del progetto
